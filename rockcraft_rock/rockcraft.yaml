@@ -15,7 +15,7 @@ version: "dev"
 summary: A Rockcraft rock
 description: |
   This is a rock that offers Rockcraft's capabilities from inside a container.
-  The default behavior is to pack a rock in destructive mode.
+  The default behaviour is to pack a rock in destructive mode.
 license: GPL-3.0
 platforms:
   amd64:
